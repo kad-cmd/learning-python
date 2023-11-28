@@ -1,0 +1,3 @@
+junior : kako : 123 : junior@email.com
+zawadi : mutitit : 12341 : zawadi@email.com
+shoka : kalumbi : 262 : shoka@email.com
