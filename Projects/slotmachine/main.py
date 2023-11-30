@@ -16,7 +16,7 @@ symbol_count = {
 
 def check_winnings(columns, lines, bet, values):
     for line in range(lines):
-        pass # 40:27
+        pass # following https://www.youtube.com/watch?v=th4OBktqK1I&ab_channel=TechWithTim  where : 40:27
 
 
 def get_slot_machine_spin(ROWS, COLS, symbol):
